@@ -1,0 +1,100 @@
+Qual é o maior país do mundo (maior em território)?|geografia|Rússia|China|Índia|Rússia|EUA
+Qual é o país mais populoso do mundo?|geografia|China|EUA|Índia|Brasil|China
+Qual é a língua mais falada no mundo ?|geografia|Mandarim|Inglês|Espanhol|Mandarim|Português
+Qual é a capital do Qatar?|geografia|Doha|Riad|Dubai|Doha|Bágda
+Qual é o maior oceano do mundo?|geografia|Oceano Pacífico|Oceano Atlântico|Oceano Índico|Oceano Glacial Ártico|Oceano Pacífico
+Qual é o menor país do mundo?|geografia|Vaticano|Tuvalu|Mônaco|Vaticano|Liechtenstein
+Quantos estados no Nordeste brasileiro começam com a letra "P"?|geografia|3|1|2|3|4
+Quantos planetas Terra caberiam, aproximadamente, dentro do Sol?|geografia|1 milhão|1 bilhão|10|100|1 milhão
+Qual estado é banhado pelo Rio Oiapoque?|geografia|Amapá|Paraná|Minas Gerais|Rio Grande do Sul|Amapá
+Qual rio corta a cidade de Londres na Inglaterra?|geografia|Tâmisa|Tâmisa|Sena|Tietê|Severn
+Em que ano foi a Revolta da Vacina?|historia|1904|1935|2000|1954|1904
+Que ano Getúlio Vargas nasceu?|historia|1882|1902|1882|1899|1867
+Que ano foi declarada a Independência dos Estados Unidos da América?|historia|1776|1776|1778|1877|1786
+Qual o Dia da Bandeira?|historia|19 de novembro|20 de dezembro|19 de novembro|15 de maio|5 de abril
+Qual o Dia da Independência do Brasil|historia|7 de setembro|9 de novembro|20 de setembro|7 de setembro|15 de julho
+Que ano foi a queda do muro de Berlin?|historia|1989|1991|1945|1989|1930
+Quantos presidentes o Brasil já teve?|historia|38|38|40|50|24
+Qual foi o maior Império do mundo antigo (em território)?|historia|Império Mongol|Império Romano|Império Persa|Império Mongol|Império Macedônico
+Qual fato histórico foi considerado o marco inicial da Idade Contemporânea?|historia|Revolução Francesa|Revolução Industrial|Revolução Francesa|Independência dos EUA|Grandes Navegações
+Qual é o dia da Proclamação da República do Brasil?|historia|15/11|7/9|2/11|15/11|25/12
+Qual o primeiro país a ganhar uma Copa do Mundo?|esporte|Uruguai|Uruguai|Brasil|Argentina|Inglaterra
+Pelé ganhou quantas Copas do Mundo?|esporte|3|1|2|3|0
+Quantas Champions League tem o Real Madrid?|esporte|13|13|12|11|10
+Quem é o maior artilheiro da Copa do Mundo?|esporte|Miroslav Klose|Ronaldo Fenômeno|Pelé|Miroslav Klose|Maradona
+Qual foi o país sede dos Jogos Olímpicos de 2020-21?|esporte|Japão|Rússia|Japão|China|Qatar
+Qual destes jogadores foi o maior cestinha da temporada regular da NBA?|esporte|Kareem Abdul-Jabbar|Michael Jordan|Kareem Abdul-Jabbar|LeBron James|Kobe Bryant
+Qual é o time que mais ganhou títulos da NBA?|esporte|Boston Celtics|Los Angeles Lakers|Chicago Bulls|Boston Celtics|Golden State Warriors
+O irlandês Conor McGregor se consagrou campeão peso pena do UFC após nocautear um brasileiro. Quem é?|esporte|José Aldo|Anderson Silva|Minotauro|José Aldo|Wanderlei Silva
+Qual dessas categorias de peso não existe no UFC ?|esporte|Peso Super-Pesado|Peso Mosca|Peso Galo|Peso Super-Pesado|Peso Pena
+Qual é o jogador mais novo a ganhar uma Copa do Mundo?|esporte|Pelé|Mbappe|Pelé|Ronaldo Fenômeno|Maradona
+Qual é o filme com maior bilheteria do mundo?|cinema|Vingadores Ultimato|Avatar|Vingadores Ultimato|Titanic|Star Wars O Despertar da Força|Coringa
+Qual desses filmes pertence a Dreamworks?|cinema|Capitão Cueca|Os Incríveis|Up Altas Aventuras|Capitão Cueca|Star Wars
+Qual foi o primeiro filme a vencer 11 categorias do Oscar?|cinema|Ben-Hur|Ben-Hur|Titanic|Senhor dos Anéis O Retorno do Rei|O Mágico de Oz
+Por qual filme Leonardo DiCaprio venceu o Oscar de melhor ator?|cinema|O Regresso|Titanic|O Regresso|O Lobo de Wall Street|A Origem
+Em que ano foi lançado o filme Star Wars: Episódio IV – Uma Nova Esperança?|cinema|1977|1980|1977|1971|1987
+Qual desses atores venceram mais Oscars?|cinema|Jack Nicholson|Robert DeNiro|Al Pacino|Jack Nicholson|Leonardo DiCaprio
+Qual personagem dos quadrinhos foi o único a ganhar duas estatuetas do Oscar?|cinema|Coringa|Homem de Ferro|Homem-Aranha|Coringa|Capitão América
+Quando foi lançado o primeiro filme do Harry Potter?|cinema|2001|1999|2001|2002|2000
+Quem foi o vilão do primeiro filme do Shrek?|cinema|Lorde Farquaad|Lorde Farquaad|Fada Madrinha|Encantado|shrek
+Quem foi a protagonista de a Fuga das Galinhas?|cinema|Ginger|Danny|Tweedy|Ginger|Fowler
+Qual é a raiz quadrada de 289?|matematica|17|20|19|17|15
+Quanto vale 6!?|matematica|720|120|5040|720|6
+Quanto vale ln (e²)?|matematica|2|1|0|2|3.14
+Quanto vale a tg de 45º ?|matematica|1|0.5|1|0|0.577
+Quanto é 7³?|matematica|343|125|343|216|512
+Qual o valor de pi?|matematica|3,1415|10,5432|0,2134|3,1415|5,6753
+Qual a derivada de x?|matematica|1|0|2x|1|10x
+Qual o resultado de 3/1?|matematica|3|30|3|0,3|1
+Qual o resultado de 3 x 4+10?|matematica|22|22|120|80|0
+Qual o resultado de (30/10) x 3+10?|matematica|19|14|30|90|19
+Como chama a música "Sacra" da idade media?|musica|Canto Gregoriano|Canto Gregoriano|Funk|MPB|Bossa Nova
+Quem canta a música "Sem voce"?|musica|Paula Fernandes|Beyonce|Lady Gaga|Maria Gadu|Paula Fernandes
+Quem canta a música "Despacito"?|musica|Luis Fonsi|Justin Bieber|Henrique Iglesias|Luis Fonsi|Ivete Sangalo
+Quem canta a música "50 reais"?|musica|Naiara Azevedo|Luis de Camões|Henrique e Juliano|Maiara e Maraisa|Naiara Azevedo
+Quantas visualizações teve "Despacito"?|musica|2 bilhões|1 milhão|10 milhões|2 bilhões|3 bilhões
+Quem canta a música "Sorry"?|musica|Justin Bieber|Ed Sheeran|Justin Bieber|Akon|Justin Timberlake
+Quem canta a música "Shape of you"?|musica|Ed Sheeran|Ed Sheeran|Milley Cyrus|Ariana Grande|Selena Gomez
+Quem canta a música "Vira homem"?|musica|Marilia Mendonça|Maiara e Maraisa|Marilia Mendonça|Zé neto e Cristiano|Jorge e Mateus
+Quem canta a música "Love the way you lie"?|musica|Eminem|Eminem|Bruno Mars|Shakira|Jay-z
+Quem canta a música "Roar"?|musica|Katy Perry|Adele|Michel Teló|Selena Gomez|Katy Perry
+Se em um avião há 4 romanos e 1 inglês, diga-me agora qual o nome da aeromoça?|raciocinio|Ivone|Maria|Judite|Luísa|Ivone
+Uma mãe tem 30 reais pra dividir entre suas duas filhas, que horas são?|raciocinio|01:45|02:45|04:50|03:30|01:45
+Amor está para Roma assim como 6323 está para...|raciocinio|3236|3623|6232|3623|3236
+Quanto números de até três algarismos são múltiplos de 5?|raciocinio|180|180|190|200|210
+Quantas voltas completará o ponteiro dos minutos de um relógio no intervalo de tempo em que o ponteiro das horas completar duas voltas e meia?|raciocinio|30|15|25|30|35
+Em um carro viajam seis pessoas das quais três estão habilitadas para dirigir. O total de maneiras distintas que se pode acomodar essas pessoas no carro para a viagem é...|raciocinio|360|205|240|360|720
+Considere a sequencia: 3, 5, 4, 6, 5, 7, 6, 8, 7, 9, 8. Qual o próximo termo?|raciocinio|10|11|10|9|8
+Maria é mais alta que Joana, que é mais baixa que Ester. Lúcia é mais baixa que Flora, mas é mais alta que Ester e que Maria. Esqueça a Maria, a mais alta é...|raciocinio|Flora|Ester|Flora|Joana|Lúcia
+O próximo termo da sequência 0, 4, 18, 48, 100, ... é?|raciocinio|180|200|250|220|180
+Qual a palavra não PERTINENTE a este grupo?|raciocinio|Médico|Arquiteto|Engenheiro|Carpinteiro|Médico
+O que não fazia parte dos mosaicos bizantinos?|artes|Imagens Tridimensionais|Imagens Tridimensionais|Imagens Frontais|Imagens Bíblicas|Imagens Coloridas
+Características da arquitetura românica são...|artes|Torres Verticais|Paredes Finas|Vitrais|Torres Verticais|Colunas sem Adorno
+Basílica de Santa Sofia é exemplo de qual arquitetura?|artes|Bizantina|Gótica|Românica|Clássica|Bizantina
+Arte Bizantina caracteriza-se por...|artes|Influencias Orientais|Influencias Orientais|Influencias Brasileiras|Influencias Europeias|Influencias Africanas
+Quem pintou a obra Guernica?|artes|Pablo Picasso|diego rivera|Salvador Dalí|Pablo Picasso|Van Gogh
+Quem pintou o teto da Capela Sistina?|artes|Michelangelo|Donatello|Leonardo da Vinci|Michelangelo|Rafael
+Qual desses foi um representante do cubismo?|artes|pablo picasso|michelangelo|boticlli|salvador dalí|pablo picasso
+Quem foi o pintor da obra A Noite Estrelada?|artes|Van Gogh|Cândido Portinari|Van Gogh|Renoir|Auguste Rodin
+Qual o período artístico de Leonardo da Vinci?|artes|renascimento|renascimento|expressionismo|realismo|cubismo
+O Mar de Saint-Marie (1883), de Van Gogh é um exemplo de pintura:|artes|Pós-Impressionista|Realista|Romântica|Impressionista|Pós-Impressionista
+Retificar é o mesmo que...|portugues|Corrigir|Divulgar|Analisar|Corrigir|Confirmar
+Qual alternativa só tem verbos no gerúndio?|portugues|Indo, Parando, Vendo|Sendo, Indo, Inventado|Parado, Vendo, Percebido|Indo, Parando, Vendo|Ido, Parando, Pedindo
+Qual é o plural de pão-de-ló?|portugues|Pães-de-ló|Pão-de-lós|Pão-de-ló|Pães-de-ló|Pães-de-lós
+Qual destas palavras é um hiato?|portugues|Piada|Carro|Piada|Xadrez|Prato
+Os verbos da segunda conjugação são terminados em?|portugues|er e or|ar|ir|er e or|ar e ir
+Nulificar é...|portugues|Anular|Rejeitar|Preencher|Contar Números|Anular
+Cunicultura é criação de...|portugues|Coelhos|Aves|Coelhos|Cães|Cabras
+Qual o feminino de rato?|portugues|Rata|Rata|Calunga|Rato-de-praga|Camundongo
+Qual o plural de barril e fuzil?|portugues|Barris e Fuzis|Barris e Fuzíveis|Barris e Fuzis|Barris e Fusis|Barrils e Fuzils
+Qual destas palavras não é sinônimo de pântano?|portugues|Agreste|Lamaceiro|Atoleiro|Brejo|Agreste
+Quantos litros de sangue uma pessoa saudável tem|conhecimentos gerais|entre 4 e 6 litros|entre 2,5 e 3 litros|entre 4 e 6 litros|entre 2 e 4 litros|entre 6 e 8 litros
+Quem escreveu a frase "Penso, logo existo"?|conhecimentos gerais|Descartes|Galileu Galilei|Sócrates|Platão|Descartes
+O nome do presidente conhecido como Jango é?|conhecimentos gerais|João Goulart|Bolsonaro|Getúlio Vargas|Lula|João Goulart
+Qual o livro mais vendido no mundo depois da Bíblia?|conhecimentos gerais|Dom Quixote|Pequeno Príncipe|Dom Quixote|Senhor dos Anéis|Um Conto de Duas Cidades
+Em que ano foi lançado o primeiro Windows?|conhecimentos gerais|1985|1979|1980|1985|1989|1986
+Qual o nome do fundador da Amazon?|conhecimentos gerais|Jeff Bezos|Bill Gates|Steve Jobs|Elon Musk|Jeff Bezos
+Qual o nome da moeda chinesa?|conhecimentos gerais|Renminbi|Iene|Renminbi|Libra|Dólar Chinês
+Quando o homem pisou na Lua?|conhecimentos gerais|1969|1968|1969|1970|1971
+Quantas casas decimais tem o número Pi?|conhecimentos gerais|Infinitas|Duas|Centenas|Milhares|Infinitas
+Em que país foi inventado o chuveiro elétrico?|conhecimentos gerais|Brasil|Brasil|França|Espanha|Itália
